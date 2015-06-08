@@ -1,7 +1,6 @@
-DocHell
+MPS - Trabalho 3
 =======
 
-Modelo de trabalho para faculdade
 
 
 Dependências:
